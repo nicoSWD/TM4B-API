@@ -1,0 +1,22 @@
+{
+    "name": "nicoswd/TM4B",
+    "type": "library",
+    "description": "PHP 5.3 wrapper for TM4B's API",
+    "keywords": ["tm4b,API,sms,mobile"],
+    "homepage": "https://github.com/nicoSWD/TM4B-API",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Nicolas Oelgart",
+            "homepage": "http://www.nicoswd.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "TM4B": ""
+        }
+    }
+}
